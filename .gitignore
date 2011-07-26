@@ -1,0 +1,13 @@
+*.o
+*~
+*.orig
+config.log
+config.status
+src/Makefile
+src/TF_LIBDIR.build
+src/makehelp
+src/tf
+src/tfconfig.h
+src/tfdefs.h
+tf-lib/tf-help.idx
+unix/vars.mak
